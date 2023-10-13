@@ -1,4 +1,4 @@
-url = 'http://of-ibmpa-dbdev/?perspective=pa-administration#'
+url = ''
 database = ''
 ignoreBooksStrings = ['', '']
 SnapshotPrefixText = 'Auto_Generated_IT_'
